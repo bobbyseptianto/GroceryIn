@@ -54,7 +54,7 @@ function cancelCartItem(event) {
 document.getElementsByClassName('btn-purchase')[0].addEventListener('click', purchaseClicked);
 
 function purchaseClicked() {
-  alert('THANK YOU FOR YOUR PURCHASE, STAY HEALTHY & WEAR A MASK :)');
+  alert('THANK YOU FOR YOUR PURCHASE, STAY HEALTHY & WEAR A MASK! PESANANMU AKAN DIANTAR VIA PERASAAN :)');
   clearCartItem()
 }
 
